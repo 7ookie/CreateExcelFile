@@ -39,6 +39,7 @@ namespace CalculateFactorial
 			return result;
 		}
 
+		//optimized factorial calculation
 		static BigInteger CalculateFactorialOptimized(int number)
 		{
 			BigInteger sum = number;
