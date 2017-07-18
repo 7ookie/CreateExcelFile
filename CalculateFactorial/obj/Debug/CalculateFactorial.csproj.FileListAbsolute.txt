@@ -1,0 +1,12 @@
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\obj\Debug\CalculateFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+C:\Users\Aventador\Documents\Visual Studio 2017\Projects\Task\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+D:\Програмиране\New Folder\Task\CalculateFactorial\bin\Debug\CalculateFactorial.exe.config
+D:\Програмиране\New Folder\Task\CalculateFactorial\obj\Debug\CalculateFactorial.exe
+D:\Програмиране\New Folder\Task\CalculateFactorial\obj\Debug\CalculateFactorial.pdb
+D:\Програмиране\New Folder\Task\CalculateFactorial\bin\Debug\CalculateFactorial.exe
+D:\Програмиране\New Folder\Task\CalculateFactorial\bin\Debug\CalculateFactorial.pdb
+D:\Програмиране\New Folder\Task\CalculateFactorial\obj\Debug\CalculateFactorial.csprojResolveAssemblyReference.cache
