@@ -9,3 +9,9 @@ D:\Програмиране\New Folder\Task\ExcelFileGenerator\obj\Debug\ExcelFi
 D:\Програмиране\New Folder\Task\ExcelFileGenerator\obj\Debug\ExcelFileGenerator.pdb
 D:\Програмиране\New Folder\Task\ExcelFileGenerator\bin\Debug\ExcelFileGenerator.exe
 D:\Програмиране\New Folder\Task\ExcelFileGenerator\bin\Debug\ExcelFileGenerator.pdb
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\bin\Debug\ExcelFileGenerator.exe.config
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\obj\Debug\ExcelFileGenerator.exe
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\obj\Debug\ExcelFileGenerator.pdb
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\bin\Debug\ExcelFileGenerator.exe
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\bin\Debug\ExcelFileGenerator.pdb
+D:\Програмиране\gitHub\CreateExcelFile\ExcelFileGenerator\obj\Debug\ExcelFileGenerator.csprojResolveAssemblyReference.cache
